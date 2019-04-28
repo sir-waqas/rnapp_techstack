@@ -1,4 +1,4 @@
-#Redux based Tech Stack App
+# Redux based Tech Stack App
 
 //Introduction to Redux:
 
@@ -38,6 +38,6 @@ payload: 'a'
 store.dispatch(action2);
 store.getState();
 
-###Actual Application Stuff:
+### Actual Application Stuff:
 
 1. npm install --save redux react-redux
