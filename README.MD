@@ -41,3 +41,12 @@ store.getState();
 ### Actual Application Stuff:
 
 1. npm install --save redux react-redux
+
+### We will create two reducers in the app state
+
+1. List of Topics with Text
+2. Currently Selected Topic
+
+### Items To Do
+
+1. Create a JSON File containing the Items to be listed in the application // Alternatively we can bring them from a web-service as well (as done while stying fetch)
