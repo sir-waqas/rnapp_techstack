@@ -50,3 +50,7 @@ store.getState();
 ### Items To Do
 
 1. Create a JSON File containing the Items to be listed in the application // Alternatively we can bring them from a web-service as well (as done while stying fetch)
+2. Create a Reducer with a title LibraryReducer.js
+3. Create a Custom Component LibraryList.js to display the data using Redux mechanism
+4. Use Connect in LibraryList to achieve the goal
+5. Most importantly we will create a mapStateToProps function implementation to achieve our goals
